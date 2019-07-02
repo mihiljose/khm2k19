@@ -17,10 +17,10 @@
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
-	<link rel="icon" href="https://mihiljose.github.io/khm2k19/wp-content/uploads/2019/07/cropped-KHM_LOGO_WHITE_2-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://mihiljose.github.io/khm2k19/wp-content/uploads/2019/07/cropped-KHM_LOGO_WHITE_2-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="https://mihiljose.github.io/khm2k19/wp-content/uploads/2019/07/cropped-KHM_LOGO_WHITE_2-180x180.png" />
-<meta name="msapplication-TileImage" content="https://mihiljose.github.io/khm2k19/wp-content/uploads/2019/07/cropped-KHM_LOGO_WHITE_2-270x270.png" />
+	<link rel="icon" href="https://mihiljose.github.io/khm2k19/wp-content/uploads/2019/07/cropped-KHM_LOGO_WHITE_1-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://mihiljose.github.io/khm2k19/wp-content/uploads/2019/07/cropped-KHM_LOGO_WHITE_1-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://mihiljose.github.io/khm2k19/wp-content/uploads/2019/07/cropped-KHM_LOGO_WHITE_1-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://mihiljose.github.io/khm2k19/wp-content/uploads/2019/07/cropped-KHM_LOGO_WHITE_1-1-270x270.png" />
 	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-gb">
 		<div id="login">
