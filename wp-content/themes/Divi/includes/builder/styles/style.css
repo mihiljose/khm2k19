@@ -2429,7 +2429,7 @@ text-align: center; }
 #TB_window { z-index: 1000000; }
 
 #et_pb_loading_animation { position: fixed; top: 50%; left: 50%; width: 50px; height: 50px; background: #FFF; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; margin: -25px 0 0 -25px; z-index: 999999; }
-#et_pb_loading_animation:before { content: ''; position: absolute; top: 50%; left: 50%; background: url( ../../../core/admin/images/ajax-loader.gif ) no-repeat; width: 32px; height: 32px; margin: -16px 0 0 -16px; }
+#et_pb_loading_animation:before { content: ''; position: absolute; top: 50%; left: 50%; background: url( https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/images/ajax-loader.gif) no-repeat; width: 32px; height: 32px; margin: -16px 0 0 -16px; }
 
 .et_pb_variation { height: 34px; float: left; margin-bottom: 7px; background: #00c3aa; margin-right: 8%; }
 .et_pb_3_variations .et_pb_variation { height: 18px; margin-bottom: 10px; }
@@ -2570,7 +2570,7 @@ p.et_pb_error_message_save_template { color: #F00; }
 
 p.et_pb_global_divider { clear: both; font-size: 21px; font-weight: 600; }
 .et_pb_global_loading_overlay { position: fixed; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.6); top: 0; z-index: 99999; }
-.et_pb_global_loading_overlay:before { content: ''; position: absolute; top: 50%; left: 50%; background: #fff url(../../../core/admin/images/ajax-loader.gif ) no-repeat; width: 32px; height: 32px; margin: -16px 0 0 -16px; border-radius: 32px; }
+.et_pb_global_loading_overlay:before { content: ''; position: absolute; top: 50%; left: 50%; background: #fff url(https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/images/ajax-loader.gif) no-repeat; width: 32px; height: 32px; margin: -16px 0 0 -16px; border-radius: 32px; }
 
 i.mce-i-uppercase:before, i.mce-i-capitalize:before, i.mce-i-d_underline:before, i.mce-i-line_through:before { font-family: 'ETmodules'; font-size: 22px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
@@ -2619,7 +2619,7 @@ form.validate label.error {
 }
 
 .minicolors-no-data-uris .minicolors-sprite {
-	background-image: url(../images/jquery.minicolors.png);
+	background-image: url(https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/includes/builder/images/jquery.minicolors.png);
 }
 
 .minicolors-swatch {
@@ -2935,7 +2935,7 @@ form.validate label.error {
 	bottom: -18px;
 	left: 50%;
 	margin-left: -14px;
-	background: url( ../images/right-click-options-carrot.png ) no-repeat;
+	background: url( https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/includes/builder/images/right-click-options-carrot.png) no-repeat;
 }
 
 #et-builder-right-click-controls .options li {
@@ -3749,8 +3749,8 @@ span.wp-color-result-text {
 .et_pb_select_ab_testing_subject div#et_pb_main_container.et-pb-disable-sort .et_pb_section,
 .et_pb_select_ab_testing_subject a,
 .et_pb_select_ab_testing_subject#et_pb_layout {
-	cursor: url(../images/cursor-select-subject.png), default !important;
-	cursor: url(../images/cursor-select-subject.png) 16 16, default !important; /* Chrome cursor hotspot fix, Ignored by IE */
+	cursor: url(https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/includes/builder/images/cursor-select-subject.png), default !important;
+	cursor: url(https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/includes/builder/images/cursor-select-subject.png) 16 16, default !important; /* Chrome cursor hotspot fix, Ignored by IE */
 }
 
 .et_pb_select_ab_testing_subject #et_pb_layout_controls,
@@ -3764,14 +3764,14 @@ span.wp-color-result-text {
 .et_pb_select_ab_testing_goal div#et_pb_main_container.et-pb-disable-sort .et_pb_section,
 .et_pb_select_ab_testing_goal a,
 .et_pb_select_ab_testing_goal#et_pb_layout {
-	cursor: url(../images/cursor-select-goal.png), default !important;
-	cursor: url(../images/cursor-select-goal.png) 16 16, default !important; /* Chrome cursor hotspot fix, Ignored by IE */
+	cursor: url(https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/includes/builder/images/cursor-select-goal.png), default !important;
+	cursor: url(https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/includes/builder/images/cursor-select-goal.png) 16 16, default !important; /* Chrome cursor hotspot fix, Ignored by IE */
 }
 
 .et_pb_select_ab_testing_winner .et_pb_ab_subject,
 .et_pb_select_ab_testing_winner .et_pb_ab_subject a {
-	cursor: url(../images/cursor-select-winner.png), default !important;
-	cursor: url(../images/cursor-select-winner.png) 16 16, default !important; /* Chrome cursor hotspot fix, Ignored by IE */
+	cursor: url(https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/includes/builder/images/cursor-select-winner.png), default !important;
+	cursor: url(https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/includes/builder/images/cursor-select-winner.png) 16 16, default !important; /* Chrome cursor hotspot fix, Ignored by IE */
 }
 
 .et_pb_select_ab_testing_winner	.et_pb_ab_subject {

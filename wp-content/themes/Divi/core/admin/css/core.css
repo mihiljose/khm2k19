@@ -30,22 +30,22 @@
 ------------------------------------------------------------------------------*/
 @font-face {
 	font-family: 'ETmodules';
-	src:url('../fonts/modules.eot');
-	src:url('../fonts/modules.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/modules.woff') format('woff'),
-		url('../fonts/modules.ttf') format('truetype'),
-		url('../fonts/modules.svg#et-modules') format('svg');
+	src:url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/modules.eot');
+	src:url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/modules.eot#iefix') format('embedded-opentype'),
+		url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/modules.woff') format('woff'),
+		url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/modules.ttf') format('truetype'),
+		url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/modules.svg#et-modules') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'etbuilder';
-	src:url('../fonts/builder.eot');
-	src:url('../fonts/builder.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/builder.woff') format('woff'),
-		url('../fonts/builder.ttf') format('truetype'),
-		url('../fonts/builder.svg#et-builder') format('svg');
+	src:url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/builder.eot');
+	src:url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/builder.eot#iefix') format('embedded-opentype'),
+		url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/builder.woff') format('woff'),
+		url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/builder.ttf') format('truetype'),
+		url('https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/fonts/builder.svg#et-builder') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -604,7 +604,7 @@ body.rtl:not(.et-fb-no-rtl) button.et-core-button {
   6.0 - Loader
 ------------------------------------------------------------------------------*/
 .et-core-loader {
-	background: transparent url("../images/loader.gif") 8px 9px no-repeat;
+	background: transparent url("https://mihiljose.github.io/khm2k19/wp-content/themes/Divi/core/admin/images/loader.gif") 8px 9px no-repeat;
 	transition: background, box-shadow 0.3s;
 	height: 50px;
 	width: 50px;
